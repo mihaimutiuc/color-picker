@@ -28,7 +28,7 @@ input{
 
 #container{
   border: 10px solid black;
-  width: 30%;
+  width: 370px;
   height: 40vh;
   display: flex;
   justify-content: center;
@@ -62,4 +62,5 @@ input{
 #button-1:hover{
   background-color: yellow;
   color: green;
+
 }
